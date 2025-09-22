@@ -7,4 +7,6 @@ Edad: 17
 correo electronico: 23308060610229@cetis61.edu.mx
 Especialidad: programación
 institucion: Cetis61
-![Uploading fetofeo.jpg…]()
+
+![Uploading Imagen de WhatsApp 2025-09-22 a las 08.37.17_e641db93.jpg…]()
+
