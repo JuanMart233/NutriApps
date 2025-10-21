@@ -8,7 +8,7 @@ correo electronico: 23308060610229@cetis61.edu.mx
 Especialidad: programación
 institucion: Cetis61
 
-![Uploading Imagen de WhatsApp 2025-09-22 a las 08.37.17_e641db93.jpg…]()
+![yo](https://github.com/user-attachments/assets/1e2d5475-4b85-4c69-9a2b-98cbc74440e0)
 
 Nombre completo: Andre Dacey Ruiz Campos
 Edad: 18
