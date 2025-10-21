@@ -10,3 +10,9 @@ institucion: Cetis61
 
 ![Uploading Imagen de WhatsApp 2025-09-22 a las 08.37.17_e641db93.jpg…]()
 
+Nombre completo: Andre Dacey Ruiz Campos
+Edad: 18
+correo electronico: 
+Especialidad: programacion
+institucion: Cetis61
+
