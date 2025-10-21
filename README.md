@@ -12,7 +12,7 @@ institucion: Cetis61
 
 Nombre completo: Andre Dacey Ruiz Campos
 Edad: 18
-correo electronico: 
+correo electronico: 23308060610332@cetis61.edu.mx
 Especialidad: programacion
 institucion: Cetis61
 
